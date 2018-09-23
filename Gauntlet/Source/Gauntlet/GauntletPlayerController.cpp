@@ -16,5 +16,4 @@ AGauntletPlayerController::AGauntletPlayerController()
 void AGauntletPlayerController::PlayerTick(float DeltaTime)
 {
 	Super::PlayerTick(DeltaTime);
-
 }
