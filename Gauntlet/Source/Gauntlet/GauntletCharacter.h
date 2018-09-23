@@ -4,10 +4,11 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
+#include "BaseCharacter.h"
 #include "GauntletCharacter.generated.h"
 
 UCLASS(Blueprintable)
-class AGauntletCharacter : public ACharacter
+class AGauntletCharacter : public ABaseCharacter
 {
 	GENERATED_BODY()
 

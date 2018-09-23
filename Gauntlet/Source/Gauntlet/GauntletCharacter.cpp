@@ -11,6 +11,7 @@
 #include "HeadMountedDisplayFunctionLibrary.h"
 #include "Materials/Material.h"
 #include "Engine/World.h"
+#include "BaseCharacter.h"
 
 AGauntletCharacter::AGauntletCharacter()
 {
